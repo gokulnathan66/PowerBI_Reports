@@ -16,7 +16,7 @@ KPI indicators highlighting dangerous AQI levels.
 
 Interactive map for geographic AQI visualization.
 
-Public Link: View AQI Dashboard [LIve report](https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
+Public Link: View AQI Dashboard [Live report](https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
 
 Image Preview: ![Air Quality](https://github.com/gokulnathan66/PowerBI_Reports/blob/a468143925f08a7a052809466712b154a988b6dd/images/AIr_quality_img.png)
 
@@ -25,12 +25,11 @@ Image Preview: ![Air Quality](https://github.com/gokulnathan66/PowerBI_Reports/b
 
 Description: This dashboard provides insights into sales performance, product categories, and revenue trends.
 
-Key Features:
 
 
-Public Link: View Sales Dashboard [[https://app.powerbi.com/view?r=eyJrIjoiMTY4ZDY4ZmQtNzQzZi00Yzc1LTk1MmUtNzI1MTI4NDE4Zjg5IiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
+Public Link: View Sales Dashboard [live report](https://app.powerbi.com/view?r=eyJrIjoiMTY4ZDY4ZmQtNzQzZi00Yzc1LTk1MmUtNzI1MTI4NDE4Zjg5IiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
 
-Image Preview: 
+Image Preview: ![image](https://github.com/gokulnathan66/PowerBI_Reports/blob/main/images/Health_img.png)
 
 
 3. Health Data Dashboard
@@ -45,9 +44,9 @@ Line charts for monitoring seasonal health trends.
 
 Q&A visual for querying health statistics using natural language.
 
-Public Link: View Health Dashboard[[https://app.powerbi.com/view?r=eyJrIjoiYjA5NzkwNzMtYTMyZC00MzBlLWIxOTQtNDllYTJlMmNlNmUxIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
+Public Link: View Health Dashboard  [Live report](https://app.powerbi.com/view?r=eyJrIjoiYjA5NzkwNzMtYTMyZC00MzBlLWIxOTQtNDllYTJlMmNlNmUxIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
 
-Image Preview: 
+Image Preview: ![image](https://github.com/gokulnathan66/PowerBI_Reports/blob/main/images/Health_img.png_
 
 
 Technical Highlights
