@@ -18,7 +18,7 @@ Interactive map for geographic AQI visualization.
 
 Public Link: View AQI Dashboard [[https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
 
-Image Preview: ![[https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
+Image Preview: 
 
 
 2. Market Sales Analysis Dashboard
@@ -30,7 +30,7 @@ Key Features:
 
 Public Link: View Sales Dashboard [[https://app.powerbi.com/view?r=eyJrIjoiMTY4ZDY4ZmQtNzQzZi00Yzc1LTk1MmUtNzI1MTI4NDE4Zjg5IiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
 
-Image Preview: ![[https://app.powerbi.com/view?r=eyJrIjoiMTY4ZDY4ZmQtNzQzZi00Yzc1LTk1MmUtNzI1MTI4NDE4Zjg5IiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
+Image Preview: 
 
 
 3. Health Data Dashboard
@@ -47,7 +47,7 @@ Q&A visual for querying health statistics using natural language.
 
 Public Link: View Health Dashboard[[https://app.powerbi.com/view?r=eyJrIjoiYjA5NzkwNzMtYTMyZC00MzBlLWIxOTQtNDllYTJlMmNlNmUxIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
 
-Image Preview: ![[https://app.powerbi.com/view?r=eyJrIjoiYjA5NzkwNzMtYTMyZC00MzBlLWIxOTQtNDllYTJlMmNlNmUxIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
+Image Preview: 
 
 
 Technical Highlights
