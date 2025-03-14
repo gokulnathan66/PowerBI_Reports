@@ -47,7 +47,7 @@ Q&A visual for querying health statistics using natural language.
 
 Public Link: View Health Dashboard[[https://app.powerbi.com/view?r=eyJrIjoiYjA5NzkwNzMtYTMyZC00MzBlLWIxOTQtNDllYTJlMmNlNmUxIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9]]
 
-Image Preview: 
+Image Preview: ![[images\AIr_quality_img.png]]
 
 
 Technical Highlights
