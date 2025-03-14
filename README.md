@@ -16,7 +16,7 @@ KPI indicators highlighting dangerous AQI levels.
 
 Interactive map for geographic AQI visualization.
 
-Public Link: View AQI Dashboard [LIve report]{https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
+Public Link: View AQI Dashboard [LIve report](https://app.powerbi.com/view?r=eyJrIjoiMjY4NDU5NzUtZTZhZS00MWNiLThlNDYtOTRlNDVjZmJlM2FmIiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9)
 
 Image Preview: ![Air Quality](https://github.com/gokulnathan66/PowerBI_Reports/blob/a468143925f08a7a052809466712b154a988b6dd/images/AIr_quality_img.png)
 
